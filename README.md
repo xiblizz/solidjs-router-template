@@ -33,4 +33,4 @@ Your app is ready to be deployed!
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
 
-Or run as a docker container with `docker compose up -d`
+Or run it as a docker container with `docker compose up -d`
